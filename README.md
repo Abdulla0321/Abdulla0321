@@ -5,7 +5,9 @@
 - 🔭 I'm currently working on **Multimodal Transport orchestration**
 - 🤝 Open to **internships, collaborations, and open-source projects** in frontend, fintech, and AI
 - 📫 How to reach me **abdullamoinudden@gmail.com**
-
+- ⚡ Fun fact: I've centered a div successfully. Only once, and I don't know how
+- 🐛 My code has two states: "works perfectly" and "I have no idea why this works"
+- ☕ Powered by chai, curiosity, and `console.log("here")`
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abadd21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abadd21" height="30" width="40" /></a>
